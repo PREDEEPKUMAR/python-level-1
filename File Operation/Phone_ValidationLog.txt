@@ -1,0 +1,46 @@
++91-7708745902 is a Valid No
++91-77087459 is Not a Valid No
++91-7708745202 is a Valid No
++91-7708745902+91-770874590 is Not a Valid No
++91-7708745302 is a Valid No
++91-9223421232 is a Valid No
+07708745902 is Not a Valid No
+7708745902 is Not a Valid No
++917708745902 is Not a Valid No
++1-7708745902 is Not a Valid No
++9-7708745902+91-7708745902 is Not a Valid No
+91-7708745902 is Not a Valid No
++ac-7708745902 is Not a Valid No
++91-abcdsssds is Not a Valid No
+2019-03-15 10:49:38  ERROR: Input File is missing at the location
+2019-03-15 10:51:07  ERROR: Input File is missing at the location
+2019-03-15 10:51:15  ERROR: Input File is missing at the location
+2019-03-15 10:51:18  ERROR: Input File is missing at the location
+2019-03-15 10:51:20  ERROR: Input File is missing at the location
+2019-03-15 10:51:21  ERROR: Input File is missing at the location
++91-7708745902 is a Valid No
++91-77087459 is Not a Valid No
++91-7708745202 is a Valid No
++91-7708745902+91-770874590 is Not a Valid No
++91-7708745302 is a Valid No
++91-9223421232 is a Valid No
+07708745902 is Not a Valid No
+7708745902 is Not a Valid No
++917708745902 is Not a Valid No
++1-7708745902 is Not a Valid No
++9-7708745902+91-7708745902 is Not a Valid No
+91-7708745902 is Not a Valid No
++ac-7708745902 is Not a Valid No
++91-abcdsssds is Not a Valid No
++91-7708745902 is a Valid No
++91-77087459 is Not a Valid No
++91-7708745202 is a Valid No
++91-7708745902+91-770874590 is Not a Valid No
++91-7708745302 is a Valid No
++91-9223421232 is a Valid No
+07708745902 is Not a Valid No
+7708745902 is Not a Valid No
++917708745902 is Not a Valid No
++1-7708745902 is Not a Valid No
++9-7708745902+91-7708745902 is Not a Valid No
+
