@@ -1,31 +1,32 @@
 # # Code for Higher Order Function to call Func as argument
-# def car(b=10):
-#     print('Car is called')
-#     return b
+def car(b=10):
+    print('Car is called')
+    return b
+
+
+def execute(func,*args):
+    c = func(*args)
+    return c
 #
-# def execute(func,*args):
-#     c = func(*args)
-#     return c
-#
-# execute(car,20)
+execute(car,20)
 #
 # # Higher Order Function as Return Type
-# def add_tw0_nums(x, y): # normal function which returns data
-#     return x + y
+def add_tw0_nums(x, y): # normal function which returns data
+    return x + y
 #
-# def add_three_nums(x, y, z): # normal function which returns data
-#     return x + y + z
+def add_three_nums(x, y, z): # normal function which returns data
+    return x + y + z
 #
-# def get_appropriate_function(num_len): # function which returns functions depending on the logic
-#     if num_len == 3:
-#         return add_three_nums
-#     else:
-#         return add_tw0_nums
+def get_appropriate_function(num_len): # function which returns functions depending on the logic
+    if num_len == 3:
+        return add_three_nums
+    else:
+        return add_tw0_nums
 #
 #
-# a = [1,2]
-# res_func = get_appropriate_function(len(a))
-# print(res_func(*a))
+a = [1,2,3]
+res_func = get_appropriate_function(len(a))
+print(res_func(*a))
 
 
 # USE CASE
